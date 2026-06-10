@@ -1,0 +1,14 @@
+torch
+torchvision
+torchmetrics
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+cleanlab
+wandb
+open-clip-torch
+grad-cam
+tqdm
+jupyter
